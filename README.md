@@ -1,5 +1,5 @@
 # arxiv-2308.05077-data
-Data for figures in arxiv:2308.05077
+Data for T. Begušić, J. Gray, G. K. Chan, "Fast and converged classical simulations of evidence for the utility of quantum computing before fault tolerance," [arxiv:2308.05077](https://doi.org/10.48550/arXiv.2308.05077) (2023).
 
 ## Files:
 exact.csv: Exact benchmarks for Figs 4a-4d, 5a
